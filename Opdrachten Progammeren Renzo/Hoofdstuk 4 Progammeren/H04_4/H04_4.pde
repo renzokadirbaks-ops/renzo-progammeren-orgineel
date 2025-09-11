@@ -1,0 +1,12 @@
+float mijngetal;
+mijngetal = 5.1;
+mijngetal = round(mijngetal);
+println(mijngetal);
+float mijngetal2;
+mijngetal2 = 5.5;
+mijngetal2 = floor(mijngetal2);
+println(mijngetal2);
+float mijngetal3;
+mijngetal3 = 5.6;
+mijngetal3 = ceil(mijngetal3);
+println(mijngetal3);

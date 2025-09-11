@@ -1,0 +1,12 @@
+size(500,500);
+int turksepizza;
+turksepizza = 5;
+println(turksepizza);
+turksepizza = 15;
+println(turksepizza);
+float broodje;
+broodje = 20.7;
+println(broodje);
+int Spiderman;
+Spiderman = 696969;
+println(Spiderman);
