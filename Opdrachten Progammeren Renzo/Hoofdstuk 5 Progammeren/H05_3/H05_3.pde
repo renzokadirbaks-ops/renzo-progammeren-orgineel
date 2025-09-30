@@ -1,0 +1,15 @@
+Float Gewicht = 90.0;
+Float Lengte = 1.7;
+Float Bmi = 0.0;
+Float Lengte2 = 0.0;
+Lengte2 = Lengte*Lengte;
+Bmi = Gewicht /(Lengte*Lengte);
+String Tekst1 = "Met een gewicht van";
+String Tekst2 = "KG en een lengte van";
+String Tekst3 = "Centimeter, is jouw BMI";
+String Tekst4 = "(Afgerond)";
+Float bmicijfer = 31.14;
+int Lengtecm = 170;
+String Volledigezin = " ";
+Volledigezin = Tekst1 +" " +  Gewicht + "  "  + Tekst2 + Lengtecm +  " " + Tekst3 + " " +bmicijfer + " " + Tekst4 ;
+println(Volledigezin);
